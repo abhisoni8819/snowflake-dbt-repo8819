@@ -1,0 +1,1 @@
+select * from {{source("abhisheksoni","users")}}
